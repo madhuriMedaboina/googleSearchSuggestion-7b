@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.list-order {
+  display: flex;
+  justify-content: space-between;
+}
+
+.para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #475569;
+}
+
+.button {
+  height: 40px;
+  width: 90px;
+  border: none;
+  border-radius: 10px;
+  background-color: #ffff;
+}
+
+.arrow {
+  height: 35px;
+  width: 40px;
+  background-color: #ffff;
+  border-radius: 10px;
+}
